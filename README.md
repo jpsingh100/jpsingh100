@@ -1,26 +1,26 @@
 # Hi there, I'm JP Singh! 👋
 
-## About Me
-🌍 **Location:** Seattle, WA  
-💼 **Profession:** Software Developer  
-🎯 **Focus:** Full-stack development, TypeScript, JavaScript  
+tl;dr
+I am product management and business person, passionate about building products and teams that build. I’ve worked across industries—including big tech, startups, and marketplaces—transforming ideas into user-centric solutions. I thrive at the intersection of strategy, execution, and innovation.
+
+## Recent Career
+Product Manager @ Meta (2023–) — Seattle, WA
+Payments exeriences and Risk ML
+
+Product Management @ Amazon (2020–2023)
+built precision delivery product and cross-border e-commerce experiences.
+
+Product Management/Ops and whatever it took @ Taro (2015–2019, acquired by Eat Club)
+Built this marketplace for chefs ground-up
 
 ## 🔭 What I'm Currently Working On
-- Building modern web applications with TypeScript and React
-- Exploring cloud technologies and serverless architectures
-- Contributing to open-source projects
+- Learning to Vibecode
+- Building vibecoding communities
+  
 
-## 🌱 What I'm Learning
-- Advanced TypeScript patterns
-- Cloud computing with AWS
-- Modern DevOps practices
 
-## 💻 Tech Stack
-- **Languages:** TypeScript, JavaScript, Python
-- **Frontend:** React, Next.js, HTML5, CSS3
-- **Backend:** Node.js, Express
-- **Tools:** Git, VS Code, Docker
-- **Cloud:** AWS, Netlify
+## 💻 Vibe coding stack
+- Cursor,Replit
 
 ## 📊 GitHub Stats
 ![JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpsingh100&show_icons=true&theme=radical)
@@ -36,9 +36,6 @@
 - 📧 Feel free to reach out for collaboration opportunities!
 
 ## ⚡ Fun Facts
-- 🌟 I love exploring new technologies and frameworks
-- 🚀 Always excited about innovative projects
-- 🎮 Gaming enthusiast in my free time
+- 🌟 Love exploring new technolgies, love running, secretly want to code and monetize a mobile app :)
 
 ---
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
